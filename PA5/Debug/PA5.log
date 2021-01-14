@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\shelt\source\repos\Cpt_S 121\PA5\PA5\main.c(43,8): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\shelt\source\repos\Cpt_S 121\PA5\PA5\main.c(75,8): warning C4013: 'system' undefined; assuming extern returning int
+  PA5.vcxproj -> C:\Users\shelt\source\repos\Cpt_S 121\PA5\Debug\PA5.exe
